@@ -28,7 +28,7 @@
     "command",
     "status"
   ],
-	"dependencies": {},
+  "dependencies": {},
   "devDependencies": {
     "@types/node": "^10.9.4",
     "rimraf": "^2.6.0",
