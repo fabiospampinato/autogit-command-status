@@ -8,4 +8,4 @@ const status = {
 
 /* EXPORT */
 
-export = Object.assign ( status, { default: status } );
+export default status;
